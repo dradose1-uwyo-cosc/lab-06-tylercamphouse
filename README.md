@@ -1,12 +1,7 @@
-# [Name]
-## [Assignment #]
-## [Submission date: MM/DD/YY]
+# [Tyler Camphouse]
+## [Assignment #6]
+## [Submission date: 10/14/24]
 ## Worked with/sources 
-* example
-* example
-* example
-* example
+* Python Crash Course, 3rd Edition
 ## Project Quirks/ Things that don't work
-* example
-* example
-* example
+* Found making percentage a bit challanging, but I was able to understand it after a while.
